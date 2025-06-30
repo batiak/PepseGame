@@ -11,9 +11,11 @@ Procedural terrain, sky, and tree generation
 
 Animated day-night cycle with sun and sun halo
 
-Rain cloud that drifts and drops rain periodically
+**The sun wears a yellow ribbon, wishing all the Israeli hostages a safe and swift return home.
 
 Player-controlled avatar with jump/run/idle animations
+
+Rain cloud that drifts and drops rain when Avatar jumps
 
 Interactive objects: fruits, falling leaves, and more
 
