@@ -11,7 +11,7 @@ Procedural terrain, sky, and tree generation
 
 Animated day-night cycle with sun and sun halo
 
-**The sun wears a yellow ribbon, wishing all the Israeli hostages a safe and swift return home.
+**The sun wears a yellow ribbon, wishing all the Israeli hostages come home fast as possible..
 
 Player-controlled avatar with jump/run/idle animations
 
